@@ -1,0 +1,42 @@
+p {
+  color: #8d2665;
+}
+li {
+  color: #8d2665;
+  background-color: #e9ccff;
+  margin-bottom: 8px;
+  border-radius: 20px;
+  padding-top: 5px;
+  padding-right: 15px;
+  padding-bottom: 5px;
+  padding-left: 15px;
+  width: fit-content;
+}
+.done {
+  color: darkseagreen;
+  text-decoration: line-through solid black 2px;
+}
+
+img {
+  width: 150px;
+  height: 150px;
+}
+
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 18px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  font-family: "Archivo", sans-serif;
+}
+.material {
+  text-align: justify;
+  padding-left: 100px;
+  width: 400px;
+}
+
+html {
+  background-color: #ffff;
+}
+.highlight {
+  background-color: rgb(255, 208, 246);
+}
